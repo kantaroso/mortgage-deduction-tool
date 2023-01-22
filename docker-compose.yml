@@ -1,0 +1,12 @@
+version: '3'
+services:
+  node:
+    container_name: node
+    build: .
+    tty: true
+    volumes:
+    - ./app:/var/src/app
+    working_dir: /var/src/app
+    ports:
+      - "127.0.0.1:3000:3000"
+
