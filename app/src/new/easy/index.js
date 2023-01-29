@@ -129,11 +129,6 @@ export const NewEasy = () => {
     // テスト用
     // 年収別所得税
     // https://mymo-ibank.com/money/5554#toc2
-    // 400: 85920 14566
-    // 500: 140365 20241
-    // 600: 213872 27141
-    // 700: 314649 31333
-    // 800: 483622 38383
     let result = 100000000;
     const deductionAmount_2022 = {
       1: 5000,
