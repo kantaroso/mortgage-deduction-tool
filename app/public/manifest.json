@@ -1,0 +1,25 @@
+{
+  "short_name": "住宅",
+  "name": "住宅ローン控除計算ツール",
+  "icons": [
+    {
+      "src": "favicon.jpeg",
+      "sizes": "64x64 32x32 16x16",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "logo128.jpeg",
+      "type": "image/jpeg",
+      "sizes": "128x128"
+    },
+    {
+      "src": "logo512.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
